@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 🌸 Iris Flower Classification
 
 This project explores the classic **Iris dataset** using two classification algorithms: **k-Nearest Neighbors (kNN)** and **Naive Bayes**. It demonstrates the full machine learning pipeline from data loading and visualization to model training, evaluation, and comparison.
@@ -67,3 +67,7 @@ About Me
 # iris_kNN_NaiveBayes
 classification of Iris dataset using kNN and Naive Bayes technics 
 >>>>>>> 12f8aaf2d710ac5691631ff0fb0b1b807d7cd906
+=======
+# iris-kNN-NaiveBayes
+iris dataset classifier using kNN and Naive Bayes technics
+>>>>>>> 7ed63cb056df60c6c1672307687b61c64f03dab2
