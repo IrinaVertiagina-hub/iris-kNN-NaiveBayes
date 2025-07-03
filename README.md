@@ -28,7 +28,8 @@ Exploratory Data Analysis
 - Used pairplot to visualize class separation  
 - Observed that petal length and width are strong features for distinguishing species
 
-images/pairplot.png
+
+![Pairplot](images/pairplot.png)
 
 
 
@@ -52,9 +53,13 @@ Both models performed well, which is expected because Iris is a clean, well-sepa
 
  Project Structure
 iris_classification_kNN_NaiveBayes/
+
 ├── iris_project.ipynb
+
 ├── README.md
+
 ├── images/
+
 │ └── pairplot.png
 
 ---
